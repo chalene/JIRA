@@ -1,0 +1,4 @@
+1.5|2015-11-19 11:07:53,666|a2dd0174c39442ec6550e937d311e484|jira|6.3.6|-|null|issuetypeschemeupdated|{"id":"10000"}|1447931273665|SEN-L6832337||issue.field.config.manager|
+1.5|2015-11-19 11:07:53,733|a2dd0174c39442ec6550e937d311e484|jira|6.3.6|-|null|issuetypeschemeupdated|{"id":"10000"}|1447931273733|SEN-L6832337||issue.field.config.manager|
+1.5|2015-11-19 11:07:56,429|a2dd0174c39442ec6550e937d311e484|jira|6.3.6|-|-228495679|userlogin|{"user.name":"eadc653b8241ae1600f2251ac53955cb","eventType":"5"}|1447931276429|SEN-L6832337|318afe267b1f9343fde63a44c836aafa|user|
+1.5|2015-11-19 11:08:32,733|a2dd0174c39442ec6550e937d311e484|jira|6.3.6|-|null|indexingshutdown|{}|1447931312733|SEN-L6832337||issue.index|

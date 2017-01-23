@@ -1,0 +1,242 @@
+2015-11-19 17:32:11,344 ThreadPoolAsyncTaskExecutor::Thread 35 INFO admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2015-11-19 17:32:12,561 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.SessionActivityStreamVersion2] Starting upgrade - Session Activity Streams V2
+2015-11-19 17:32:12,572 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.SessionActivityStreamVersion2] Finishing upgrade - Session Activity Streams V2
+2015-11-19 17:32:12,573 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.SessionDaoAndNoteDaoUpgrade] Starting upgrade - SessionDaoAndNoteDaoUpgrade
+2015-11-19 17:32:12,588 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.SessionDaoAndNoteDaoUpgrade] No sessions to upgrade
+2015-11-19 17:32:12,591 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.SessionDaoAndNoteDaoUpgrade as done for version 1.3.0
+2015-11-19 17:32:12,591 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.SessionDaoAndNoteDaoUpgrade] Finishing upgrade - SessionDaoAndNoteDaoUpgrade
+2015-11-19 17:32:12,593 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [bonfire.upgradetasks.reindex.SessionStatusReindex] Starting upgrade - SessionStatusReindex
+2015-11-19 17:32:12,599 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.reindex.SessionStatusReindex as done for version 1.6.0
+2015-11-19 17:32:12,599 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [bonfire.upgradetasks.reindex.SessionStatusReindex] Finishing upgrade - SessionStatusReindex
+2015-11-19 17:32:12,601 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.TemplatesUpgrade] Starting upgrade - TemplatesUpgrade
+2015-11-19 17:32:12,603 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.TemplatesUpgrade as done for version 1.7.0
+2015-11-19 17:32:12,604 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.TemplatesUpgrade] Finished upgrade - TemplatesUpgrade
+2015-11-19 17:32:12,605 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [bonfire.upgradetasks.reindex.SessionStatusReindex] Starting upgrade - TemplatesReindex
+2015-11-19 17:32:12,617 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.reindex.TemplatesReindex as done for version 1.7.1
+2015-11-19 17:32:12,617 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [bonfire.upgradetasks.reindex.SessionStatusReindex] Finishing upgrade - TemplatesReindex
+2015-11-19 17:32:12,619 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [bonfire.upgradetasks.reindex.SessionStatusReindex] Starting upgrade - TemplatesReindexBON758
+2015-11-19 17:32:12,624 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.reindex.TemplatesReindexBON758 as done for version 1.8.4
+2015-11-19 17:32:12,624 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [bonfire.upgradetasks.reindex.SessionStatusReindex] Finishing upgrade - TemplatesReindexBON758
+2015-11-19 17:32:12,865 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.SessionsCFTUpgradeTask as done for version 2.1.0
+2015-11-19 17:32:12,870 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.reindex.SessionReindexBON1386 as done for version 2.5.0
+2015-11-19 17:32:13,001 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.EnvironmentFieldsBON1523 as done for version 2.6.0
+2015-11-19 17:32:13,030 UpmAsynchronousTaskManager:thread-1 WARN admin 1028x62x3 1e7u81q 172.16.182.81 /rest/plugins/1.0/available/featured [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.EnvironmentFieldsCapture as done for version 2.7.0
+2015-11-19 19:07:35,171 ThreadPoolAsyncTaskExecutor::Thread 7 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2015-11-19 19:08:32,969 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2015-11-19 19:28:12,851 ThreadPoolAsyncTaskExecutor::Thread 13 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2015-11-19 19:28:37,053 http-bio-8000-exec-2 INFO anonymous 1168x2x1 - 172.16.182.81 /secure/SetupDatabase!default.jspa [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # onClearCache() - clearing cache state
+*********************************************************************************
+
+2015-11-19 19:29:46,294 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2015-11-19 19:30:29,984 ThreadPoolAsyncTaskExecutor::Thread 24 INFO anonymous 1169x18x1 1xhgqyc 172.16.182.81 /secure/SetupLicense.jspa [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2015-11-19 19:31:56,171 http-bio-8000-exec-8 INFO anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # onClearCache() - clearing cache state
+*********************************************************************************
+
+2015-11-19 19:31:59,763 http-bio-8000-exec-8 INFO anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # onClearCache() - clearing cache state
+*********************************************************************************
+
+2015-11-19 19:32:01,958 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.SessionActivityStreamVersion2] Starting upgrade - Session Activity Streams V2
+2015-11-19 19:32:02,054 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.SessionActivityStreamVersion2] Finishing upgrade - Session Activity Streams V2
+2015-11-19 19:32:02,065 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.SessionDaoAndNoteDaoUpgrade] Starting upgrade - SessionDaoAndNoteDaoUpgrade
+2015-11-19 19:32:02,148 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.SessionDaoAndNoteDaoUpgrade] No sessions to upgrade
+2015-11-19 19:32:02,169 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.SessionDaoAndNoteDaoUpgrade as done for version 1.3.0
+2015-11-19 19:32:02,169 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.SessionDaoAndNoteDaoUpgrade] Finishing upgrade - SessionDaoAndNoteDaoUpgrade
+2015-11-19 19:32:02,190 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.upgradetasks.reindex.SessionStatusReindex] Starting upgrade - SessionStatusReindex
+2015-11-19 19:32:02,239 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.reindex.SessionStatusReindex as done for version 1.6.0
+2015-11-19 19:32:02,239 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.upgradetasks.reindex.SessionStatusReindex] Finishing upgrade - SessionStatusReindex
+2015-11-19 19:32:02,267 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.TemplatesUpgrade] Starting upgrade - TemplatesUpgrade
+2015-11-19 19:32:02,288 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.TemplatesUpgrade as done for version 1.7.0
+2015-11-19 19:32:02,288 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.TemplatesUpgrade] Finished upgrade - TemplatesUpgrade
+2015-11-19 19:32:02,308 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.upgradetasks.reindex.SessionStatusReindex] Starting upgrade - TemplatesReindex
+2015-11-19 19:32:02,370 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.reindex.TemplatesReindex as done for version 1.7.1
+2015-11-19 19:32:02,370 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.upgradetasks.reindex.SessionStatusReindex] Finishing upgrade - TemplatesReindex
+2015-11-19 19:32:02,391 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.upgradetasks.reindex.SessionStatusReindex] Starting upgrade - TemplatesReindexBON758
+2015-11-19 19:32:02,439 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.reindex.TemplatesReindexBON758 as done for version 1.8.4
+2015-11-19 19:32:02,439 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.upgradetasks.reindex.SessionStatusReindex] Finishing upgrade - TemplatesReindexBON758
+2015-11-19 19:32:02,612 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.SessionsCFTUpgradeTask as done for version 2.1.0
+2015-11-19 19:32:02,666 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.reindex.SessionReindexBON1386 as done for version 2.5.0
+2015-11-19 19:32:03,135 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.EnvironmentFieldsBON1523 as done for version 2.6.0
+2015-11-19 19:32:03,333 http-bio-8000-exec-8 WARN anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [atlassian.bonfire.upgradetasks.UpgradeTaskKit] Marking upgrade task com.atlassian.bonfire.upgradetasks.EnvironmentFieldsCapture as done for version 2.7.0
+2015-11-19 19:32:03,905 http-bio-8000-exec-8 INFO anonymous 1171x45x1 1xhgqyc 172.16.182.81 /secure/SetupMailNotifications.jspa [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # onClearCache() - clearing cache state
+*********************************************************************************
+
+2016-07-08 10:35:16,884 ThreadPoolAsyncTaskExecutor::Thread 13 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-07-08 13:39:30,849 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2016-07-08 13:39:43,850 ThreadPoolAsyncTaskExecutor::Thread 31 INFO admin 818x295x3 17jgkrq 172.16.68.71 /rest/plugins/1.0/ [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-07-08 14:59:02,034 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2016-07-08 15:00:53,787 ThreadPoolAsyncTaskExecutor::Thread 23 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-07-08 15:04:38,204 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2016-07-08 15:05:49,126 ThreadPoolAsyncTaskExecutor::Thread 19 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-07-08 15:08:36,815 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2016-07-08 15:09:50,924 ThreadPoolAsyncTaskExecutor::Thread 7 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-07-08 15:16:06,712 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2016-07-08 15:17:12,710 ThreadPoolAsyncTaskExecutor::Thread 10 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-08-03 14:36:13,465 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2016-08-03 14:39:25,479 ThreadPoolAsyncTaskExecutor::Thread 18 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-08-03 15:03:31,855 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2016-08-03 15:05:11,746 ThreadPoolAsyncTaskExecutor::Thread 21 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-08-30 14:41:42,784 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2016-08-30 14:49:46,626 ThreadPoolAsyncTaskExecutor::Thread 7 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2016-11-23 14:31:39,435 ThreadPoolAsyncTaskExecutor::Thread 21 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2017-01-11 13:32:33,614 ThreadPoolAsyncTaskExecutor::Thread 12 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2017-01-11 13:47:23,692 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2017-01-11 14:41:14,111 ThreadPoolAsyncTaskExecutor::Thread 12 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2017-01-11 14:41:51,663 http-bio-8000-exec-4 INFO anonymous 881x3x1 - 172.16.200.25 /secure/SetupDatabase!default.jspa [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # onClearCache() - clearing cache state
+*********************************************************************************
+
+2017-01-11 14:46:47,124 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
