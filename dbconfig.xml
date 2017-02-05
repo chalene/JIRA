@@ -4,7 +4,6 @@
   <name>defaultDS</name>
   <delegator-name>default</delegator-name>
   <database-type>mysql</database-type>
-  <schema-name>jira</schema-name>
   <jdbc-datasource>
     <url>jdbc:mysql://192.168.225.74:3306/jira?useUnicode=true&amp;characterEncoding=UTF8&amp;sessionVariables=storage_engine=InnoDB</url>
     <driver-class>com.mysql.jdbc.Driver</driver-class>

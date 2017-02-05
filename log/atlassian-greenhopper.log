@@ -2363,3 +2363,532 @@ Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08
 Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopping...
 *********************************************************************************
 
+2017-01-23 16:12:04,560 ThreadPoolAsyncTaskExecutor::Thread 5 INFO anonymous 970x17x1 a0tpzm 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin starting...
+*********************************************************************************
+
+2017-01-23 16:12:04,685 ThreadPoolAsyncTaskExecutor::Thread 5 INFO anonymous 970x17x1 a0tpzm 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+JIRA Agile Run History
+
+	*JIRA Agile v6.7.11 (71a5197f0180dc1d) started at 23 Jan 2017 04:12
+
+
+2017-01-23 16:12:04,687 ThreadPoolAsyncTaskExecutor::Thread 5 INFO anonymous 970x17x1 a0tpzm 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] There does not appear to be any JIRA Agile upgrade history
+2017-01-23 16:12:04,687 ThreadPoolAsyncTaskExecutor::Thread 5 INFO anonymous 970x17x1 a0tpzm 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] This can be ok as upgrade history was not introduced until JIRA Agile v5.10.3
+2017-01-23 16:12:11,416 http-bio-8000-exec-1 INFO anonymous 970x17x1 a0tpzm 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin started.  Get Agile!
+*********************************************************************************
+
+2017-01-23 16:12:14,583 http-bio-8000-exec-1 INFO anonymous 970x17x1 a0tpzm 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - onClearCache() - clearing cache state
+*********************************************************************************
+
+2017-01-23 16:44:08,345 ThreadPoolAsyncTaskExecutor::Thread 4 INFO anonymous 1002x5x1 k0fmxa 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin starting...
+*********************************************************************************
+
+2017-01-23 16:44:08,582 ThreadPoolAsyncTaskExecutor::Thread 4 INFO anonymous 1002x5x1 k0fmxa 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+JIRA Agile Run History
+
+	*JIRA Agile v6.7.11 (71a5197f0180dc1d) started at 23 Jan 2017 04:44
+
+
+2017-01-23 16:44:08,583 ThreadPoolAsyncTaskExecutor::Thread 4 INFO anonymous 1002x5x1 k0fmxa 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] There does not appear to be any JIRA Agile upgrade history
+2017-01-23 16:44:08,584 ThreadPoolAsyncTaskExecutor::Thread 4 INFO anonymous 1002x5x1 k0fmxa 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] This can be ok as upgrade history was not introduced until JIRA Agile v5.10.3
+2017-01-23 16:44:15,691 http-bio-8000-exec-8 INFO anonymous 1002x5x1 k0fmxa 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin started.  Get Agile!
+*********************************************************************************
+
+2017-01-23 16:44:21,454 http-bio-8000-exec-8 INFO anonymous 1002x5x1 k0fmxa 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - onClearCache() - clearing cache state
+*********************************************************************************
+
+2017-01-23 17:00:16,807 Timer-4 INFO anonymous 1002x5x1 k0fmxa 172.16.68.71 /secure/SetupDatabase.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopping...
+*********************************************************************************
+
+2017-01-23 17:01:36,753 ThreadPoolAsyncTaskExecutor::Thread 8 WARN anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [greenhopper.service.issue.IssueFieldManagerImpl] The GreenHopper IssueFieldManagerImpl service has been wired and is now ready for use
+2017-01-23 17:01:39,710 ThreadPoolAsyncTaskExecutor::Thread 8 WARN anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [atlassian.greenhopper.service.BridgeServiceLocator] The GreenHopper BridgeServiceLocator has been wired and is ready for use
+2017-01-23 17:01:40,201 ThreadPoolAsyncTaskExecutor::Thread 8 INFO anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin starting...
+*********************************************************************************
+
+2017-01-23 17:01:40,335 ThreadPoolAsyncTaskExecutor::Thread 8 INFO anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [greenhopper.service.logging.LogSupport] 
+
+JIRA Agile Run History
+
+	*JIRA Agile v6.7.11 (71a5197f0180dc1d) started at 23 Jan 2017 05:01
+
+
+2017-01-23 17:01:40,337 ThreadPoolAsyncTaskExecutor::Thread 8 INFO anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [greenhopper.service.logging.LogSupport] There does not appear to be any JIRA Agile upgrade history
+2017-01-23 17:01:40,337 ThreadPoolAsyncTaskExecutor::Thread 8 INFO anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [greenhopper.service.logging.LogSupport] This can be ok as upgrade history was not introduced until JIRA Agile v5.10.3
+2017-01-23 17:01:48,823 http-bio-8000-exec-10 INFO anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin started.  Get Agile!
+*********************************************************************************
+
+2017-01-23 17:03:15,958 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask011] =========================================
+2017-01-23 17:03:15,958 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask011] Starting upgrade task (buildNumber=11) : Migration of Rapid Views storage to Active Objects
+2017-01-23 17:03:15,959 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask011] Upgrade task finished (buildNumber=11) : Migration of Rapid Views storage to Active Objects
+2017-01-23 17:03:15,959 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask011] =========================================
+2017-01-23 17:03:15,985 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:15,986 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=12) : Migrate labs ranking data to multi-rank-field implementation
+2017-01-23 17:03:15,987 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask012] No Labs global rank field configured, skipping
+2017-01-23 17:03:15,998 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=12) : Migrate labs ranking data to multi-rank-field implementation
+2017-01-23 17:03:15,998 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:16,073 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:16,073 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=13) : Migrate all rank related data from GH classic mode to new ranking system
+2017-01-23 17:03:16,074 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ConvertOldRankFieldsToNumberTypeTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.ConvertOldRankFieldsToNumberTypeTask
+2017-01-23 17:03:16,074 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ConvertOldRankFieldsToNumberTypeTask] Attempting to convert all existing RankingCFType custom fields into NumberCFType custom fields
+2017-01-23 17:03:17,522 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ConvertOldRankFieldsToNumberTypeTask] Refreshing the CustomFieldManager to pick up our custom field changes
+2017-01-23 17:03:17,522 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ConvertOldRankFieldsToNumberTypeTask] -- Done class com.atlassian.greenhopper.upgrade.task013.ConvertOldRankFieldsToNumberTypeTask
+2017-01-23 17:03:17,522 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.InitialiseRankFieldsMapTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.InitialiseRankFieldsMapTask
+2017-01-23 17:03:17,522 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.InitialiseRankFieldsMapTask] -- Done class com.atlassian.greenhopper.upgrade.task013.InitialiseRankFieldsMapTask
+2017-01-23 17:03:17,522 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ResolveDefaultRankFieldTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.ResolveDefaultRankFieldTask
+2017-01-23 17:03:17,522 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ResolveDefaultRankFieldTask] Attempting to pick an existing RankingCFType custom field to be the new 'default'
+2017-01-23 17:03:17,526 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ResolveDefaultRankFieldTask] Couldn't find a suitable old rank field to be the new default one.
+2017-01-23 17:03:17,526 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ResolveDefaultRankFieldTask] -- Done class com.atlassian.greenhopper.upgrade.task013.ResolveDefaultRankFieldTask
+2017-01-23 17:03:17,526 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.UpdateLabsRankFieldDescriptionTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.UpdateLabsRankFieldDescriptionTask
+2017-01-23 17:03:17,527 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.UpdateLabsRankFieldDescriptionTask] No labs Global Rank - skipping...
+2017-01-23 17:03:17,527 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.UpdateLabsRankFieldDescriptionTask] -- Done class com.atlassian.greenhopper.upgrade.task013.UpdateLabsRankFieldDescriptionTask
+2017-01-23 17:03:17,527 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.CreateNewRankCustomFieldsFromOldTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.CreateNewRankCustomFieldsFromOldTask
+2017-01-23 17:03:17,527 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.CreateNewRankCustomFieldsFromOldTask] Creating new rank custom fields for all existing rank custom fields
+2017-01-23 17:03:17,527 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.CreateNewRankCustomFieldsFromOldTask] -- Done class com.atlassian.greenhopper.upgrade.task013.CreateNewRankCustomFieldsFromOldTask
+2017-01-23 17:03:17,527 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.MigrateRankDataTaskImpl] -- Begin class com.atlassian.greenhopper.upgrade.task013.MigrateRankDataTaskImpl
+2017-01-23 17:03:17,527 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.MigrateRankDataTaskImpl] No old rank fields found, no data to migrate.
+2017-01-23 17:03:17,528 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.MigrateRankDataTaskImpl] -- Done class com.atlassian.greenhopper.upgrade.task013.MigrateRankDataTaskImpl
+2017-01-23 17:03:17,528 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.UpdateSavedFiltersForNewRankFieldsTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.UpdateSavedFiltersForNewRankFieldsTask
+2017-01-23 17:03:17,528 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.UpdateSavedFiltersForNewRankFieldsTask] Attempting to update existing saved filters to use new rank custom fields
+2017-01-23 17:03:17,532 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.UpdateSavedFiltersForNewRankFieldsTask] -- Done class com.atlassian.greenhopper.upgrade.task013.UpdateSavedFiltersForNewRankFieldsTask
+2017-01-23 17:03:17,532 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.RenameOldRankCustomFieldsTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.RenameOldRankCustomFieldsTask
+2017-01-23 17:03:17,532 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.RenameOldRankCustomFieldsTask] Renaming all old rank fields
+2017-01-23 17:03:17,532 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.RenameOldRankCustomFieldsTask] -- Done class com.atlassian.greenhopper.upgrade.task013.RenameOldRankCustomFieldsTask
+2017-01-23 17:03:17,532 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.UpdateGreenHopperConfigurationTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.UpdateGreenHopperConfigurationTask
+2017-01-23 17:03:17,590 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.UpdateGreenHopperConfigurationTask] -- Done class com.atlassian.greenhopper.upgrade.task013.UpdateGreenHopperConfigurationTask
+2017-01-23 17:03:17,590 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ScreenSchemeCleanupTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.ScreenSchemeCleanupTask
+2017-01-23 17:03:17,615 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ScreenSchemeCleanupTask] -- Done class com.atlassian.greenhopper.upgrade.task013.ScreenSchemeCleanupTask
+2017-01-23 17:03:17,615 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.FieldConfigurationCleanupTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.FieldConfigurationCleanupTask
+2017-01-23 17:03:17,882 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.FieldConfigurationCleanupTask] -- Done class com.atlassian.greenhopper.upgrade.task013.FieldConfigurationCleanupTask
+2017-01-23 17:03:17,882 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ColumnLayoutItemsCleanupTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.ColumnLayoutItemsCleanupTask
+2017-01-23 17:03:17,882 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.ColumnLayoutItemsCleanupTask] -- Done class com.atlassian.greenhopper.upgrade.task013.ColumnLayoutItemsCleanupTask
+2017-01-23 17:03:17,882 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.PostUpgradeCleanupTask] -- Begin class com.atlassian.greenhopper.upgrade.task013.PostUpgradeCleanupTask
+2017-01-23 17:03:17,904 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.task013.PostUpgradeCleanupTask] -- Done class com.atlassian.greenhopper.upgrade.task013.PostUpgradeCleanupTask
+2017-01-23 17:03:17,941 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - onClearCache() - clearing cache state
+*********************************************************************************
+
+2017-01-23 17:03:17,983 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=13) : Migrate all rank related data from GH classic mode to new ranking system
+2017-01-23 17:03:17,983 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:18,079 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:18,079 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=14) : No-op upgrade task to introduce the UpgradeVersionService
+2017-01-23 17:03:18,088 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=14) : No-op upgrade task to introduce the UpgradeVersionService
+2017-01-23 17:03:18,088 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:18,115 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:18,115 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=15) : Migrating Sprint data from PropertySets back into AO
+2017-01-23 17:03:20,077 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask015] No SprintAO records found
+2017-01-23 17:03:20,085 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=15) : Migrating Sprint data from PropertySets back into AO
+2017-01-23 17:03:20,085 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,115 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,115 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=16) : Migrating RapidView data from PropertySets back into AO
+2017-01-23 17:03:20,119 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask016] No RapidViewAO records found
+2017-01-23 17:03:20,125 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=16) : Migrating RapidView data from PropertySets back into AO
+2017-01-23 17:03:20,125 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,160 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,161 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=17) : Setting default Estimation Statistic configuration for boards
+2017-01-23 17:03:20,169 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask017] Found Story Points field 'customfield_10002' via configuration property.
+2017-01-23 17:03:20,172 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask017DaoImpl] No RapidViewAO records found
+2017-01-23 17:03:20,179 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=17) : Setting default Estimation Statistic configuration for boards
+2017-01-23 17:03:20,179 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,219 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,219 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=18) : Introduce the 'complete date' of a Sprint in addition to the 'end date', shift all sprint start dates by 5 minutes
+2017-01-23 17:03:20,221 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask018] No SprintAO records found
+2017-01-23 17:03:20,227 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=18) : Introduce the 'complete date' of a Sprint in addition to the 'end date', shift all sprint start dates by 5 minutes
+2017-01-23 17:03:20,227 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,256 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,256 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=19) : Reset sprint custom field index checked flag and add reindex required message
+2017-01-23 17:03:20,287 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=19) : Reset sprint custom field index checked flag and add reindex required message
+2017-01-23 17:03:20,287 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,311 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,311 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=20) : Setting default swimlane strategy for boards
+2017-01-23 17:03:20,313 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask020] No RapidViewAO records found
+2017-01-23 17:03:20,320 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=20) : Setting default swimlane strategy for boards
+2017-01-23 17:03:20,321 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,352 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,352 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=21) : Setting default Tracking Statistic configuration for boards
+2017-01-23 17:03:20,355 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask021DaoImpl] No RapidViewAO records found
+2017-01-23 17:03:20,364 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=21) : Setting default Tracking Statistic configuration for boards
+2017-01-23 17:03:20,364 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,405 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,405 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=22) : Attempt to create default Sprint custom field as Scrum is no longer a 'Labs' feature
+2017-01-23 17:03:20,406 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask022] Default Sprint CF does not currently exist -- maybe because we are upgrading data which never enabled Scrum Labs feature.
+2017-01-23 17:03:20,585 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask022] Default Sprint CF created -- ID 'customfield_10004'
+2017-01-23 17:03:20,592 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=22) : Attempt to create default Sprint custom field as Scrum is no longer a 'Labs' feature
+2017-01-23 17:03:20,592 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,620 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,620 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=23) : Setting default card color strategy for boards
+2017-01-23 17:03:20,622 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask023] No RapidViewAO records found
+2017-01-23 17:03:20,628 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=23) : Setting default card color strategy for boards
+2017-01-23 17:03:20,628 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,652 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,653 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=24) : Setting correct sprint marker names
+2017-01-23 17:03:20,656 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask024] No SprintMarkerAO records found
+2017-01-23 17:03:20,663 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=24) : Setting correct sprint marker names
+2017-01-23 17:03:20,663 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,691 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,691 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=25) : Renaming Epic Label custom field to Epic Name
+2017-01-23 17:03:20,721 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=25) : Renaming Epic Label custom field to Epic Name
+2017-01-23 17:03:20,722 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,752 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:20,752 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=26) : Adding custom fields for epic support
+2017-01-23 17:03:21,299 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=26) : Adding custom fields for epic support
+2017-01-23 17:03:21,299 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,341 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,341 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=27) : Updating epic status custom field value based on the current resolution of the epic
+2017-01-23 17:03:21,341 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask027] Fetching epic issue type
+2017-01-23 17:03:21,341 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask027] Epic issue type id is not defined
+2017-01-23 17:03:21,349 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=27) : Updating epic status custom field value based on the current resolution of the epic
+2017-01-23 17:03:21,349 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,384 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,384 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=29) : Modifying change history items for Epic Link field to include issue ID
+2017-01-23 17:03:21,401 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=29) : Modifying change history items for Epic Link field to include issue ID
+2017-01-23 17:03:21,401 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,439 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,439 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=30) : Add reindex required message for Epic Label field
+2017-01-23 17:03:21,461 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=30) : Add reindex required message for Epic Label field
+2017-01-23 17:03:21,461 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,608 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,609 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=31) : Remove hard-coded issue details fields
+2017-01-23 17:03:21,619 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=31) : Remove hard-coded issue details fields
+2017-01-23 17:03:21,620 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,653 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,653 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=32) : Upgrade persisted usernames to work with JIRA 6.0 rename user feature
+2017-01-23 17:03:21,668 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=32) : Upgrade persisted usernames to work with JIRA 6.0 rename user feature
+2017-01-23 17:03:21,668 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,694 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,694 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=33) : Merge duplicate fields managed by GreenHopper
+2017-01-23 17:03:21,695 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask033] Epic issue type id is not defined
+2017-01-23 17:03:21,699 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=33) : Merge duplicate fields managed by GreenHopper
+2017-01-23 17:03:21,699 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,725 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,725 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=34) : Updates the description of existing epic link fields
+2017-01-23 17:03:21,765 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask034] Updated the description of CustomField 'Epic Link' with ID 'customfield_10006'
+2017-01-23 17:03:21,771 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=34) : Updates the description of existing epic link fields
+2017-01-23 17:03:21,771 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,790 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,790 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=35) : Update searcher type for Flagged custom field
+2017-01-23 17:03:21,803 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=35) : Update searcher type for Flagged custom field
+2017-01-23 17:03:21,803 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,851 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,851 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=36) : Sets the started flag of existing sprints to true
+2017-01-23 17:03:21,860 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=36) : Sets the started flag of existing sprints to true
+2017-01-23 17:03:21,860 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,887 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:21,887 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=37) : Update field names and descriptions to new brand names
+2017-01-23 17:03:22,012 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - onClearCache() - clearing cache state
+*********************************************************************************
+
+2017-01-23 17:03:22,131 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=37) : Update field names and descriptions to new brand names
+2017-01-23 17:03:22,131 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,154 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,154 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=38) : Empty upgrade task which previously was used to reset analytics flag in order to show new description.
+2017-01-23 17:03:22,163 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=38) : Empty upgrade task which previously was used to reset analytics flag in order to show new description.
+2017-01-23 17:03:22,164 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,188 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,188 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=39) : Creates Board Admins from the owners of existing Rapid Views
+2017-01-23 17:03:22,632 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=39) : Creates Board Admins from the owners of existing Rapid Views
+2017-01-23 17:03:22,632 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,655 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,655 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=40) : Ensure all custom fields and issue types have names that have been properly internationalised and not just the keys
+2017-01-23 17:03:22,656 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Updating issue type names
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type Bug
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type A problem which impairs or prevents the functions of the product.
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type Improvement
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type An improvement or enhancement to an existing feature or task.
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type New Feature
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type A new feature of the product, which has yet to be developed.
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type Task
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type A task that needs to be done.
+2017-01-23 17:03:22,657 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type Sub-task
+2017-01-23 17:03:22,658 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No update needed for issue type The sub-task of the issue
+2017-01-23 17:03:22,658 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Updating Epic status names
+2017-01-23 17:03:22,663 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Updating Flagging option
+2017-01-23 17:03:22,669 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Updating custom field names
+2017-01-23 17:03:22,706 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Epic Color was already set correctly
+2017-01-23 17:03:22,707 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Epic Color was already set correctly to Epic Color field for JIRA Agile use only.
+2017-01-23 17:03:22,710 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Epic Color
+2017-01-23 17:03:22,711 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Epic Color
+2017-01-23 17:03:22,711 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Epic Status was already set correctly
+2017-01-23 17:03:22,712 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Epic Status was already set correctly to Epic Status field for JIRA Agile use only.
+2017-01-23 17:03:22,712 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Epic Status
+2017-01-23 17:03:22,712 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Epic Status
+2017-01-23 17:03:22,713 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Epic Name was already set correctly
+2017-01-23 17:03:22,714 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Epic Name was already set correctly to Provide a short name to identify this epic in the JIRA Agile boards.
+2017-01-23 17:03:22,714 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Epic Name
+2017-01-23 17:03:22,715 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Epic Name
+2017-01-23 17:03:22,717 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Epic Link was already set correctly
+2017-01-23 17:03:22,717 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Epic Link was already set correctly to Choose an epic to assign this issue to.
+2017-01-23 17:03:22,718 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Epic Link
+2017-01-23 17:03:22,720 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Epic Link
+2017-01-23 17:03:22,721 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Flagged was already set correctly
+2017-01-23 17:03:22,721 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Flagged was already set correctly to Allows to flag issues with impediments.
+2017-01-23 17:03:22,721 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Flagged
+2017-01-23 17:03:22,721 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Flagged
+2017-01-23 17:03:22,723 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Sprint was already set correctly
+2017-01-23 17:03:22,724 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Sprint was already set correctly to JIRA Agile sprint field
+2017-01-23 17:03:22,724 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Sprint
+2017-01-23 17:03:22,726 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Sprint
+2017-01-23 17:03:22,726 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Business Value was already set correctly
+2017-01-23 17:03:22,727 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Business Value was already set correctly to Measurement of business value of a requirement.
+2017-01-23 17:03:22,727 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Business Value
+2017-01-23 17:03:22,728 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Business Value
+2017-01-23 17:03:22,728 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Story Points was already set correctly
+2017-01-23 17:03:22,729 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Story Points was already set correctly to Measurement of complexity and/or size of a requirement.
+2017-01-23 17:03:22,729 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Story Points
+2017-01-23 17:03:22,730 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Story Points
+2017-01-23 17:03:22,730 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that name of field Epic/Theme was already set correctly
+2017-01-23 17:03:22,731 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Verified that description of field Epic/Theme was already set correctly to Field that will help you regroup issues under an Epic or under a theme.
+2017-01-23 17:03:22,731 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field layout item descriptions updated for field Epic/Theme
+2017-01-23 17:03:22,733 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] No field config schemes updated for field Epic/Theme
+2017-01-23 17:03:22,734 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask040] Updating issue type schemes
+2017-01-23 17:03:22,744 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=40) : Ensure all custom fields and issue types have names that have been properly internationalised and not just the keys
+2017-01-23 17:03:22,745 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,770 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,770 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=41) : updates the colors for epics
+2017-01-23 17:03:22,776 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #eea2a0 to ghx-label-1
+2017-01-23 17:03:22,776 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #ffc585 to ghx-label-2
+2017-01-23 17:03:22,777 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #d5eeff to ghx-label-3
+2017-01-23 17:03:22,778 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #ffee92 to ghx-label-4
+2017-01-23 17:03:22,778 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #b3e494 to ghx-label-5
+2017-01-23 17:03:22,779 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #f2c7d4 to ghx-label-6
+2017-01-23 17:03:22,780 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #dca9de to ghx-label-7
+2017-01-23 17:03:22,781 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #e3c667 to ghx-label-8
+2017-01-23 17:03:22,782 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #e8e8e8 to ghx-label-9
+2017-01-23 17:03:22,782 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #eacac6 to ghx-label-1
+2017-01-23 17:03:22,783 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #f7ddb4 to ghx-label-2
+2017-01-23 17:03:22,783 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #dcedff to ghx-label-3
+2017-01-23 17:03:22,784 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #fdf4bb to ghx-label-4
+2017-01-23 17:03:22,785 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #dbecbd to ghx-label-5
+2017-01-23 17:03:22,785 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #f1dfe5 to ghx-label-6
+2017-01-23 17:03:22,786 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #e2ceec to ghx-label-7
+2017-01-23 17:03:22,786 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #eacda0 to ghx-label-8
+2017-01-23 17:03:22,787 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask041] Upgraded 0 instances of #f1f1f1 to ghx-label-9
+2017-01-23 17:03:22,817 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=41) : updates the colors for epics
+2017-01-23 17:03:22,817 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,841 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,841 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=42) : Used to add the Sprint custom field to the view issue, edit issue and create issue screens. Obsolete, changed to do nothing.
+2017-01-23 17:03:22,846 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=42) : Used to add the Sprint custom field to the view issue, edit issue and create issue screens. Obsolete, changed to do nothing.
+2017-01-23 17:03:22,846 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,867 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,867 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=43) : Force Sprint Marker Migration
+2017-01-23 17:03:22,875 http-bio-8000-exec-18 DEBUG anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.performance] [ForcedSprintMarkerMigration] all boards migrated (6 ms)
+2017-01-23 17:03:22,919 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=43) : Force Sprint Marker Migration
+2017-01-23 17:03:22,919 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,944 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:22,944 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=44) : Migrate to LexoRank field
+2017-01-23 17:03:23,160 http-bio-8000-exec-18 DEBUG anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.performance] [LexoRank] Ranked issues part of the old ranking system (1 ms)
+2017-01-23 17:03:23,162 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.lexorank.LexoRankPopulator] [LexoRank] Population started for customfield_10009 field
+2017-01-23 17:03:23,164 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.lexorank.RealLexoRankDatabasePopulatorImpl] [LexoRank] Population finished for customfield_10009. Total issues populated: 0
+2017-01-23 17:03:23,164 http-bio-8000-exec-18 DEBUG anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.performance] [LexoRank] Populated rank for issues without rank (4 ms)
+2017-01-23 17:03:23,166 http-bio-8000-exec-18 DEBUG anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.performance] [LexoRank] Search requests migrated (2 ms)
+2017-01-23 17:03:23,168 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.lexorank.LexoRankConfigurationMigrator] Checking rank fields in configuration for 0 projects
+2017-01-23 17:03:23,169 http-bio-8000-exec-18 DEBUG anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.performance] [LexoRank] Changed configurations for 0 custom fields corresponding to the old fields (3 ms)
+2017-01-23 17:03:23,169 http-bio-8000-exec-18 DEBUG anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.performance] [LexoRank] Renaming rank fields completed (0 ms)
+2017-01-23 17:03:23,278 http-bio-8000-exec-18 DEBUG anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.performance] [LexoRank] Field rank integrity check performed (109 ms)
+2017-01-23 17:03:23,314 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.upgrade.lexorank.LexoRankUpgradeOutcomeLogger] 
+LexoRank Upgrade Outcome
+========================================================
+Migrated Old Rank Fields  		: 0
+Migrated Lexo Rank Fields 		: 1
+Actual Old Rank Fields    		: 0
+Actual Lexo Rank Fields   		: 1
+Total Issues in System    		: 0
+Issue migrated for LexoRank CF[Rank]	: 0
+Issue rank rows for LexoRank CF[Rank]	: 0
+2017-01-23 17:03:23,314 http-bio-8000-exec-18 DEBUG anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.performance] [LexoRank] LexoRank migrated (369 ms)
+2017-01-23 17:03:23,319 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=44) : Migrate to LexoRank field
+2017-01-23 17:03:23,319 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:23,348 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:23,349 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=45) : Remove Obsolete Rank Custom Fields
+2017-01-23 17:03:23,378 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask045] Did not find any RankCFType custom fields.
+2017-01-23 17:03:23,383 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=45) : Remove Obsolete Rank Custom Fields
+2017-01-23 17:03:23,383 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:23,414 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:23,414 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=46) : Sets status categories for (what is assumed to be) JIRA Agile's simple workflow's statuses.
+2017-01-23 17:03:23,439 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask046] Finding statuses with no assigned status category semantics...
+2017-01-23 17:03:23,443 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask046] Found 0 statuses with no status category
+2017-01-23 17:03:23,448 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=46) : Sets status categories for (what is assumed to be) JIRA Agile's simple workflow's statuses.
+2017-01-23 17:03:23,448 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:23,479 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:23,479 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=47) : Removing classic gadgets from dashboards
+2017-01-23 17:03:23,492 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=47) : Removing classic gadgets from dashboards
+2017-01-23 17:03:23,493 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:23,516 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:23,516 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Starting upgrade task (buildNumber=48) : Add reindex required message for Epic Label field searching
+2017-01-23 17:03:23,517 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [atlassian.greenhopper.upgrade.GhUpgradeTask048] Epic issue type id is not defined
+2017-01-23 17:03:23,522 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] Upgrade task finished (buildNumber=48) : Add reindex required message for Epic Label field searching
+2017-01-23 17:03:23,522 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [com.atlassian.greenhopper.upgrade] =========================================
+2017-01-23 17:03:25,707 http-bio-8000-exec-18 INFO anonymous 1023x39x1 k0fmxa 172.16.68.71 /secure/SetupMailNotifications.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - onClearCache() - clearing cache state
+*********************************************************************************
+
+2017-01-23 17:03:28,700 http-bio-8000-exec-18 INFO      [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] Checking if jira-importers-plugin is present and at version 4.4 or higher
+2017-01-23 17:03:28,701 http-bio-8000-exec-18 INFO      [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] jira-importers-plugin already at 6.2.3.
+2017-01-23 17:54:10,847 Timer-7 INFO anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopping...
+*********************************************************************************
+
+2017-01-23 17:54:10,899 Timer-7 WARN anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [atlassian.greenhopper.service.BridgeServiceLocator] The GreenHopper BridgeServiceLocator has been unwired and is no longer usable
+2017-01-23 17:54:10,900 Timer-7 INFO anonymous 1020x24x1 k0fmxa 172.16.68.71 /secure/SetupLicense.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopped
+*********************************************************************************
+
+2017-01-23 17:55:42,255 ThreadPoolAsyncTaskExecutor::Thread 14 WARN admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.service.issue.IssueFieldManagerImpl] The GreenHopper IssueFieldManagerImpl service has been wired and is now ready for use
+2017-01-23 17:55:45,646 ThreadPoolAsyncTaskExecutor::Thread 14 WARN admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [atlassian.greenhopper.service.BridgeServiceLocator] The GreenHopper BridgeServiceLocator has been wired and is ready for use
+2017-01-23 17:55:46,202 ThreadPoolAsyncTaskExecutor::Thread 14 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin starting...
+*********************************************************************************
+
+2017-01-23 17:55:46,381 ThreadPoolAsyncTaskExecutor::Thread 14 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.service.logging.LogSupport] 
+
+JIRA Agile Run History
+
+	*JIRA Agile v6.7.11 (71a5197f0180dc1d) started at 19 Nov 2015 07:30
+
+
+2017-01-23 17:55:46,535 ThreadPoolAsyncTaskExecutor::Thread 14 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.service.logging.LogSupport] 
+
+The following JIRA Agile upgrade tasks have been run on this system
+
+	JAG UpgradeTask  12 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  12 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1 ms
+	JAG UpgradeTask  13 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  13 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1411 ms
+	JAG UpgradeTask  14 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  14 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  15 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  15 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1305 ms
+	JAG UpgradeTask  16 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  16 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  17 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  17 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 13 ms
+	JAG UpgradeTask  18 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  18 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  19 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  19 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 28 ms
+	JAG UpgradeTask  20 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  20 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  21 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  21 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  22 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  22 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 169 ms
+	JAG UpgradeTask  23 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  23 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  24 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  24 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  25 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  25 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 22 ms
+	JAG UpgradeTask  26 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  26 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 532 ms
+	JAG UpgradeTask  27 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  27 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  29 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  29 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 19 ms
+	JAG UpgradeTask  30 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  30 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 21 ms
+	JAG UpgradeTask  31 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  31 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  32 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  32 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 18 ms
+	JAG UpgradeTask  33 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  33 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  34 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  34 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 44 ms
+	JAG UpgradeTask  35 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  35 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 8 ms
+	JAG UpgradeTask  36 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  36 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1 ms
+	JAG UpgradeTask  37 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  37 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 214 ms
+	JAG UpgradeTask  38 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  38 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  39 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  39 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 506 ms
+	JAG UpgradeTask  40 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  40 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 168 ms
+	JAG UpgradeTask  41 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  41 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 56 ms
+	JAG UpgradeTask  42 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  42 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  43 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  43 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 10 ms
+	JAG UpgradeTask  44 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  44 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 253 ms
+	JAG UpgradeTask  45 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  45 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 57 ms
+	JAG UpgradeTask  46 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  46 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 14 ms
+	JAG UpgradeTask  47 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  47 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 7 ms
+	JAG UpgradeTask  48 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  48 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+
+2017-01-23 17:55:53,434 JiraImportTaskExecutionThread-1 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin started.  Get Agile!
+*********************************************************************************
+
+2017-01-23 17:56:14,258 JiraImportTaskExecutionThread-1 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] Checking if jira-importers-plugin is present and at version 4.4 or higher
+2017-01-23 17:56:14,259 JiraImportTaskExecutionThread-1 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] jira-importers-plugin already at 6.2.3.
+2017-01-23 17:56:16,232 JiraImportTaskExecutionThread-1 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.service.logging.LogSupport] 
+
+Managed Issue Types
+	Epic                            id=10000                   name=Epic                            
+	Story                           id=10001                   name=Story                           
+
+
+Managed Custom Fields
+	Epic Colour                     id=customfield_10008       name=Epic Color                      type=com.pyxis.greenhopper.jira:gh-epic-color
+	Epic Link                       id=customfield_10006       name=Epic Link                       type=com.pyxis.greenhopper.jira:gh-epic-link
+	Epic Name                       id=customfield_10005       name=Epic Name                       type=com.pyxis.greenhopper.jira:gh-epic-label
+	Epic Status                     id=customfield_10007       name=Epic Status                     type=com.pyxis.greenhopper.jira:gh-epic-status
+	Default Global Rank             id=customfield_10009       name=Rank                            type=com.pyxis.greenhopper.jira:gh-lexo-rank
+	Sprint                          id=customfield_10004       name=Sprint                          type=com.pyxis.greenhopper.jira:gh-sprint
+	Story Points                    id=customfield_10002       name=Story Points                    type=com.atlassian.jira.plugin.system.customfieldtypes:float
+
+
+Managed Issue Link Types
+	Epic Link Issue Link Type       id=10200                   name=Epic-Story Link                 
+
