@@ -328,3 +328,39 @@ Atlassian Bonfire v2.9.6.0 # plugin stopped
 Atlassian Bonfire v2.9.6.0 # plugin started
 *********************************************************************************
 
+2017-02-06 15:16:44,501 Timer-10 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2017-02-06 17:01:33,736 ThreadPoolAsyncTaskExecutor::Thread 7 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2017-02-06 17:02:11,932 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2017-02-06 17:08:55,344 ThreadPoolAsyncTaskExecutor::Thread 13 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+
+2017-02-06 17:13:37,907 Timer-2 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin stopped
+*********************************************************************************
+
+2017-02-06 17:15:30,386 ThreadPoolAsyncTaskExecutor::Thread 1 INFO      [bonfire.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian Bonfire v2.9.6.0 # plugin started
+*********************************************************************************
+

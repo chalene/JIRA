@@ -2892,3 +2892,1053 @@ Managed Custom Fields
 Managed Issue Link Types
 	Epic Link Issue Link Type       id=10200                   name=Epic-Story Link                 
 
+2017-02-06 15:16:45,363 Timer-10 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopping...
+*********************************************************************************
+
+2017-02-06 15:16:45,443 Timer-10 WARN admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [atlassian.greenhopper.service.BridgeServiceLocator] The GreenHopper BridgeServiceLocator has been unwired and is no longer usable
+2017-02-06 15:16:45,443 Timer-10 INFO admin 1073x571x1 a8xmlb 172.16.68.71 /secure/admin/XmlRestore.jspa [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopped
+*********************************************************************************
+
+2017-02-06 17:01:42,840 ThreadPoolAsyncTaskExecutor::Thread 4 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin starting...
+*********************************************************************************
+
+2017-02-06 17:01:42,904 ThreadPoolAsyncTaskExecutor::Thread 4 INFO      [greenhopper.service.logging.LogSupport] 
+
+JIRA Agile Run History
+
+	*JIRA Agile v6.7.11 (71a5197f0180dc1d) started at 19 Nov 2015 07:30
+
+
+2017-02-06 17:01:43,042 ThreadPoolAsyncTaskExecutor::Thread 4 INFO      [greenhopper.service.logging.LogSupport] 
+
+The following JIRA Agile upgrade tasks have been run on this system
+
+	JAG UpgradeTask  12 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  12 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1 ms
+	JAG UpgradeTask  13 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  13 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1411 ms
+	JAG UpgradeTask  14 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  14 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  15 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  15 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1305 ms
+	JAG UpgradeTask  16 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  16 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  17 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  17 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 13 ms
+	JAG UpgradeTask  18 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  18 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  19 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  19 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 28 ms
+	JAG UpgradeTask  20 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  20 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  21 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  21 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  22 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  22 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 169 ms
+	JAG UpgradeTask  23 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  23 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  24 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  24 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  25 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  25 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 22 ms
+	JAG UpgradeTask  26 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  26 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 532 ms
+	JAG UpgradeTask  27 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  27 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  29 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  29 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 19 ms
+	JAG UpgradeTask  30 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  30 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 21 ms
+	JAG UpgradeTask  31 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  31 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  32 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  32 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 18 ms
+	JAG UpgradeTask  33 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  33 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  34 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  34 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 44 ms
+	JAG UpgradeTask  35 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  35 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 8 ms
+	JAG UpgradeTask  36 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  36 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1 ms
+	JAG UpgradeTask  37 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  37 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 214 ms
+	JAG UpgradeTask  38 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  38 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  39 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  39 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 506 ms
+	JAG UpgradeTask  40 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  40 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 168 ms
+	JAG UpgradeTask  41 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  41 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 56 ms
+	JAG UpgradeTask  42 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  42 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  43 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  43 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 10 ms
+	JAG UpgradeTask  44 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  44 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 253 ms
+	JAG UpgradeTask  45 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  45 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 57 ms
+	JAG UpgradeTask  46 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  46 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 14 ms
+	JAG UpgradeTask  47 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  47 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 7 ms
+	JAG UpgradeTask  48 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  48 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+
+2017-02-06 17:01:50,805 localhost-startStop-1 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin started.  Get Agile!
+*********************************************************************************
+
+2017-02-06 17:02:00,089 localhost-startStop-1 INFO      [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] Checking if jira-importers-plugin is present and at version 4.4 or higher
+2017-02-06 17:02:00,090 localhost-startStop-1 INFO      [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] jira-importers-plugin already at 6.2.3.
+2017-02-06 17:02:04,446 localhost-startStop-1 INFO      [greenhopper.service.logging.LogSupport] 
+
+Managed Issue Types
+	Epic                            id=10000                   name=Epic                            
+	Story                           id=10001                   name=Story                           
+
+
+Managed Custom Fields
+	Epic Colour                     id=customfield_10008       name=Epic Color                      type=com.pyxis.greenhopper.jira:gh-epic-color
+	Epic Link                       id=customfield_10006       name=Epic Link                       type=com.pyxis.greenhopper.jira:gh-epic-link
+	Epic Name                       id=customfield_10005       name=Epic Name                       type=com.pyxis.greenhopper.jira:gh-epic-label
+	Epic Status                     id=customfield_10007       name=Epic Status                     type=com.pyxis.greenhopper.jira:gh-epic-status
+	Default Global Rank             id=customfield_10009       name=Rank                            type=com.pyxis.greenhopper.jira:gh-lexo-rank
+	Sprint                          id=customfield_10004       name=Sprint                          type=com.pyxis.greenhopper.jira:gh-sprint
+	Story Points                    id=customfield_10002       name=Story Points                    type=com.atlassian.jira.plugin.system.customfieldtypes:float
+
+
+Managed Issue Link Types
+	Epic Link Issue Link Type       id=10200                   name=Epic-Story Link                 
+
+2017-02-06 17:02:04,876 localhost-startStop-1 ERROR      [atlassian.greenhopper.analytics.AgileStartupAnalyticsPublisher]  Error trying to grab analytics from [com.atlassian.greenhopper.analytics.BasicStatsAnalyticTask]
+java.lang.IllegalStateException: java.io.IOException: Permission denied
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:43)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:24)
+	at com.google.common.base.Suppliers$MemoizingSupplier.get(Suppliers.java:109)
+	at net.java.ao.db.FileSystemUtils.isCaseSensitive(FileSystemUtils.java:50)
+	at net.java.ao.db.MySQLDatabaseProvider.isCaseSensitive(MySQLDatabaseProvider.java:156)
+	at net.java.ao.schema.helper.DatabaseMetaDataReaderImpl.getTableNames(DatabaseMetaDataReaderImpl.java:58)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:106)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:94)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:85)
+	at net.java.ao.schema.SchemaGenerator.generateImpl(SchemaGenerator.java:120)
+	at net.java.ao.schema.SchemaGenerator.migrate(SchemaGenerator.java:89)
+	at net.java.ao.EntityManager.migrate(EntityManager.java:128)
+	at com.atlassian.activeobjects.internal.EntityManagedActiveObjects.migrate(EntityManagedActiveObjects.java:44)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:74)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:68)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate$1.doInTransaction(HostContextTransactionTemplate.java:25)
+	at com.atlassian.jira.DefaultHostContextAccessor.doInTransaction(DefaultHostContextAccessor.java:34)
+	at sun.reflect.GeneratedMethodAccessor156.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.hostcomponents.impl.DefaultComponentRegistrar$ContextClassLoaderSettingInvocationHandler.invoke(DefaultComponentRegistrar.java:129)
+	at com.sun.proxy.$Proxy292.doInTransaction(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor156.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.bridge.external.HostComponentFactoryBean$DynamicServiceInvocationHandler.invoke(HostComponentFactoryBean.java:154)
+	at com.sun.proxy.$Proxy292.doInTransaction(Unknown Source)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate.execute(HostContextTransactionTemplate.java:21)
+	at sun.reflect.GeneratedMethodAccessor159.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy1520.execute(Unknown Source)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory.create(AbstractActiveObjectsFactory.java:67)
+	at com.atlassian.activeobjects.internal.DelegatingActiveObjectsFactory.create(DelegatingActiveObjectsFactory.java:39)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.createActiveObjects(ActiveObjectsServiceFactory.java:136)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.access$000(ActiveObjectsServiceFactory.java:51)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:65)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:61)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects$MemoizingSupplier.get(DelegatingActiveObjects.java:156)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects.count(DelegatingActiveObjects.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy3500.count(Unknown Source)
+	at com.atlassian.greenhopper.service.rapid.view.RapidViewDao.count(RapidViewDao.java:140)
+	at com.atlassian.greenhopper.analytics.BasicStatsAnalyticTask.getAnalytics(BasicStatsAnalyticTask.java:32)
+	at com.atlassian.greenhopper.analytics.AgileStartupAnalyticsPublisher.publishAnaliticsData(AgileStartupAnalyticsPublisher.java:40)
+	at com.atlassian.greenhopper.Launcher.onSystemStartPhase(Launcher.java:237)
+	at com.atlassian.greenhopper.Launcher.onStart(Launcher.java:213)
+	at sun.reflect.GeneratedMethodAccessor170.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy714.onStart(Unknown Source)
+	at com.atlassian.sal.core.lifecycle.DefaultLifecycleManager.notifyLifecycleAwareOfStart(DefaultLifecycleManager.java:99)
+	at com.atlassian.sal.core.lifecycle.DefaultLifecycleManager.notifyOnStart(DefaultLifecycleManager.java:91)
+	at com.atlassian.sal.jira.lifecycle.JiraLifecycleManager.notifyOnStart(JiraLifecycleManager.java:67)
+	at com.atlassian.sal.core.lifecycle.DefaultLifecycleManager.start(DefaultLifecycleManager.java:50)
+	at com.atlassian.sal.jira.lifecycle.JiraLifecycleManager.onJiraStart(JiraLifecycleManager.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.event.internal.SingleParameterMethodListenerInvoker.invoke(SingleParameterMethodListenerInvoker.java:36)
+	at com.atlassian.event.internal.AsynchronousAbleEventDispatcher$1$1.run(AsynchronousAbleEventDispatcher.java:46)
+	at com.google.common.util.concurrent.MoreExecutors$SameThreadExecutorService.execute(MoreExecutors.java:253)
+	at com.atlassian.event.internal.AsynchronousAbleEventDispatcher.dispatch(AsynchronousAbleEventDispatcher.java:101)
+	at com.atlassian.event.internal.EventPublisherImpl.invokeListeners(EventPublisherImpl.java:160)
+	at com.atlassian.event.internal.EventPublisherImpl.publish(EventPublisherImpl.java:79)
+	at com.atlassian.plugin.event.impl.DefaultPluginEventManager.broadcast(DefaultPluginEventManager.java:84)
+	at com.atlassian.jira.upgrade.PluginUpgradeLauncher.start(PluginUpgradeLauncher.java:35)
+	at com.atlassian.jira.startup.ActiveServicesLauncher.start(ActiveServicesLauncher.java:43)
+	at com.atlassian.jira.startup.DefaultJiraLauncher$3.run(DefaultJiraLauncher.java:136)
+	at com.atlassian.jira.config.database.DatabaseConfigurationManagerImpl.doNowOrEnqueue(DatabaseConfigurationManagerImpl.java:324)
+	at com.atlassian.jira.config.database.DatabaseConfigurationManagerImpl.doNowOrWhenDatabaseActivated(DatabaseConfigurationManagerImpl.java:214)
+	at com.atlassian.jira.startup.DefaultJiraLauncher.postDbLaunch(DefaultJiraLauncher.java:118)
+	at com.atlassian.jira.startup.DefaultJiraLauncher.access$100(DefaultJiraLauncher.java:32)
+	at com.atlassian.jira.startup.DefaultJiraLauncher$1.run(DefaultJiraLauncher.java:81)
+	at com.atlassian.jira.util.devspeed.JiraDevSpeedTimer.run(JiraDevSpeedTimer.java:34)
+	at com.atlassian.jira.startup.DefaultJiraLauncher.start(DefaultJiraLauncher.java:76)
+	at com.atlassian.jira.startup.LauncherContextListener.contextInitialized(LauncherContextListener.java:71)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4992)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5490)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1575)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1565)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createTempFile(Unknown Source)
+	at java.io.File.createTempFile(Unknown Source)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:29)
+	... 137 more
+2017-02-06 17:02:12,275 Timer-2 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopping...
+*********************************************************************************
+
+2017-02-06 17:02:12,283 Timer-2 WARN      [atlassian.greenhopper.service.BridgeServiceLocator] The GreenHopper BridgeServiceLocator has been unwired and is no longer usable
+2017-02-06 17:02:12,284 Timer-2 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopped
+*********************************************************************************
+
+2017-02-06 17:09:04,047 ThreadPoolAsyncTaskExecutor::Thread 5 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin starting...
+*********************************************************************************
+
+2017-02-06 17:09:04,094 ThreadPoolAsyncTaskExecutor::Thread 5 INFO      [greenhopper.service.logging.LogSupport] 
+
+JIRA Agile Run History
+
+	*JIRA Agile v6.7.11 (71a5197f0180dc1d) started at 19 Nov 2015 07:30
+
+
+2017-02-06 17:09:04,214 ThreadPoolAsyncTaskExecutor::Thread 5 INFO      [greenhopper.service.logging.LogSupport] 
+
+The following JIRA Agile upgrade tasks have been run on this system
+
+	JAG UpgradeTask  12 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  12 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1 ms
+	JAG UpgradeTask  13 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  13 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1411 ms
+	JAG UpgradeTask  14 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  14 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  15 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  15 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1305 ms
+	JAG UpgradeTask  16 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  16 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  17 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  17 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 13 ms
+	JAG UpgradeTask  18 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  18 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  19 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  19 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 28 ms
+	JAG UpgradeTask  20 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  20 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  21 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  21 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  22 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  22 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 169 ms
+	JAG UpgradeTask  23 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  23 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  24 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  24 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  25 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  25 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 22 ms
+	JAG UpgradeTask  26 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  26 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 532 ms
+	JAG UpgradeTask  27 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  27 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  29 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  29 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 19 ms
+	JAG UpgradeTask  30 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  30 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 21 ms
+	JAG UpgradeTask  31 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  31 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  32 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  32 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 18 ms
+	JAG UpgradeTask  33 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  33 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  34 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  34 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 44 ms
+	JAG UpgradeTask  35 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  35 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 8 ms
+	JAG UpgradeTask  36 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  36 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1 ms
+	JAG UpgradeTask  37 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  37 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 214 ms
+	JAG UpgradeTask  38 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  38 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  39 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  39 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 506 ms
+	JAG UpgradeTask  40 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  40 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 168 ms
+	JAG UpgradeTask  41 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  41 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 56 ms
+	JAG UpgradeTask  42 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  42 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  43 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  43 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 10 ms
+	JAG UpgradeTask  44 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  44 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 253 ms
+	JAG UpgradeTask  45 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  45 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 57 ms
+	JAG UpgradeTask  46 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  46 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 14 ms
+	JAG UpgradeTask  47 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  47 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 7 ms
+	JAG UpgradeTask  48 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  48 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+
+2017-02-06 17:09:11,019 localhost-startStop-1 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin started.  Get Agile!
+*********************************************************************************
+
+2017-02-06 17:09:17,831 localhost-startStop-1 INFO      [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] Checking if jira-importers-plugin is present and at version 4.4 or higher
+2017-02-06 17:09:17,832 localhost-startStop-1 INFO      [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] jira-importers-plugin already at 6.2.3.
+2017-02-06 17:09:20,604 localhost-startStop-1 INFO      [greenhopper.service.logging.LogSupport] 
+
+Managed Issue Types
+	Epic                            id=10000                   name=Epic                            
+	Story                           id=10001                   name=Story                           
+
+
+Managed Custom Fields
+	Epic Colour                     id=customfield_10008       name=Epic Color                      type=com.pyxis.greenhopper.jira:gh-epic-color
+	Epic Link                       id=customfield_10006       name=Epic Link                       type=com.pyxis.greenhopper.jira:gh-epic-link
+	Epic Name                       id=customfield_10005       name=Epic Name                       type=com.pyxis.greenhopper.jira:gh-epic-label
+	Epic Status                     id=customfield_10007       name=Epic Status                     type=com.pyxis.greenhopper.jira:gh-epic-status
+	Default Global Rank             id=customfield_10009       name=Rank                            type=com.pyxis.greenhopper.jira:gh-lexo-rank
+	Sprint                          id=customfield_10004       name=Sprint                          type=com.pyxis.greenhopper.jira:gh-sprint
+	Story Points                    id=customfield_10002       name=Story Points                    type=com.atlassian.jira.plugin.system.customfieldtypes:float
+
+
+Managed Issue Link Types
+	Epic Link Issue Link Type       id=10200                   name=Epic-Story Link                 
+
+2017-02-06 17:09:20,963 localhost-startStop-1 ERROR      [atlassian.greenhopper.analytics.AgileStartupAnalyticsPublisher]  Error trying to grab analytics from [com.atlassian.greenhopper.analytics.BasicStatsAnalyticTask]
+java.lang.IllegalStateException: java.io.IOException: Permission denied
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:43)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:24)
+	at com.google.common.base.Suppliers$MemoizingSupplier.get(Suppliers.java:109)
+	at net.java.ao.db.FileSystemUtils.isCaseSensitive(FileSystemUtils.java:50)
+	at net.java.ao.db.MySQLDatabaseProvider.isCaseSensitive(MySQLDatabaseProvider.java:156)
+	at net.java.ao.schema.helper.DatabaseMetaDataReaderImpl.getTableNames(DatabaseMetaDataReaderImpl.java:58)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:106)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:94)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:85)
+	at net.java.ao.schema.SchemaGenerator.generateImpl(SchemaGenerator.java:120)
+	at net.java.ao.schema.SchemaGenerator.migrate(SchemaGenerator.java:89)
+	at net.java.ao.EntityManager.migrate(EntityManager.java:128)
+	at com.atlassian.activeobjects.internal.EntityManagedActiveObjects.migrate(EntityManagedActiveObjects.java:44)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:74)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:68)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate$1.doInTransaction(HostContextTransactionTemplate.java:25)
+	at com.atlassian.jira.DefaultHostContextAccessor.doInTransaction(DefaultHostContextAccessor.java:34)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.hostcomponents.impl.DefaultComponentRegistrar$ContextClassLoaderSettingInvocationHandler.invoke(DefaultComponentRegistrar.java:129)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.bridge.external.HostComponentFactoryBean$DynamicServiceInvocationHandler.invoke(HostComponentFactoryBean.java:154)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate.execute(HostContextTransactionTemplate.java:21)
+	at sun.reflect.GeneratedMethodAccessor149.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy1183.execute(Unknown Source)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory.create(AbstractActiveObjectsFactory.java:67)
+	at com.atlassian.activeobjects.internal.DelegatingActiveObjectsFactory.create(DelegatingActiveObjectsFactory.java:39)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.createActiveObjects(ActiveObjectsServiceFactory.java:136)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.access$000(ActiveObjectsServiceFactory.java:51)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:65)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:61)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects$MemoizingSupplier.get(DelegatingActiveObjects.java:156)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects.count(DelegatingActiveObjects.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy3500.count(Unknown Source)
+	at com.atlassian.greenhopper.service.rapid.view.RapidViewDao.count(RapidViewDao.java:140)
+	at com.atlassian.greenhopper.analytics.BasicStatsAnalyticTask.getAnalytics(BasicStatsAnalyticTask.java:32)
+	at com.atlassian.greenhopper.analytics.AgileStartupAnalyticsPublisher.publishAnaliticsData(AgileStartupAnalyticsPublisher.java:40)
+	at com.atlassian.greenhopper.Launcher.onSystemStartPhase(Launcher.java:237)
+	at com.atlassian.greenhopper.Launcher.onStart(Launcher.java:213)
+	at sun.reflect.GeneratedMethodAccessor160.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy708.onStart(Unknown Source)
+	at com.atlassian.sal.core.lifecycle.DefaultLifecycleManager.notifyLifecycleAwareOfStart(DefaultLifecycleManager.java:99)
+	at com.atlassian.sal.core.lifecycle.DefaultLifecycleManager.notifyOnStart(DefaultLifecycleManager.java:91)
+	at com.atlassian.sal.jira.lifecycle.JiraLifecycleManager.notifyOnStart(JiraLifecycleManager.java:67)
+	at com.atlassian.sal.core.lifecycle.DefaultLifecycleManager.start(DefaultLifecycleManager.java:50)
+	at com.atlassian.sal.jira.lifecycle.JiraLifecycleManager.onJiraStart(JiraLifecycleManager.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.event.internal.SingleParameterMethodListenerInvoker.invoke(SingleParameterMethodListenerInvoker.java:36)
+	at com.atlassian.event.internal.AsynchronousAbleEventDispatcher$1$1.run(AsynchronousAbleEventDispatcher.java:46)
+	at com.google.common.util.concurrent.MoreExecutors$SameThreadExecutorService.execute(MoreExecutors.java:253)
+	at com.atlassian.event.internal.AsynchronousAbleEventDispatcher.dispatch(AsynchronousAbleEventDispatcher.java:101)
+	at com.atlassian.event.internal.EventPublisherImpl.invokeListeners(EventPublisherImpl.java:160)
+	at com.atlassian.event.internal.EventPublisherImpl.publish(EventPublisherImpl.java:79)
+	at com.atlassian.plugin.event.impl.DefaultPluginEventManager.broadcast(DefaultPluginEventManager.java:84)
+	at com.atlassian.jira.upgrade.PluginUpgradeLauncher.start(PluginUpgradeLauncher.java:35)
+	at com.atlassian.jira.startup.ActiveServicesLauncher.start(ActiveServicesLauncher.java:43)
+	at com.atlassian.jira.startup.DefaultJiraLauncher$3.run(DefaultJiraLauncher.java:136)
+	at com.atlassian.jira.config.database.DatabaseConfigurationManagerImpl.doNowOrEnqueue(DatabaseConfigurationManagerImpl.java:324)
+	at com.atlassian.jira.config.database.DatabaseConfigurationManagerImpl.doNowOrWhenDatabaseActivated(DatabaseConfigurationManagerImpl.java:214)
+	at com.atlassian.jira.startup.DefaultJiraLauncher.postDbLaunch(DefaultJiraLauncher.java:118)
+	at com.atlassian.jira.startup.DefaultJiraLauncher.access$100(DefaultJiraLauncher.java:32)
+	at com.atlassian.jira.startup.DefaultJiraLauncher$1.run(DefaultJiraLauncher.java:81)
+	at com.atlassian.jira.util.devspeed.JiraDevSpeedTimer.run(JiraDevSpeedTimer.java:34)
+	at com.atlassian.jira.startup.DefaultJiraLauncher.start(DefaultJiraLauncher.java:76)
+	at com.atlassian.jira.startup.LauncherContextListener.contextInitialized(LauncherContextListener.java:71)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4992)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5490)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1575)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1565)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createTempFile(Unknown Source)
+	at java.io.File.createTempFile(Unknown Source)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:29)
+	... 137 more
+2017-02-06 17:10:05,953 lexorank-executor-thread-0 ERROR      [service.lexorank.balance.LexoRankBalancingService] java.io.IOException: Permission denied
+java.lang.IllegalStateException: java.io.IOException: Permission denied
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:43)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:24)
+	at com.google.common.base.Suppliers$MemoizingSupplier.get(Suppliers.java:109)
+	at net.java.ao.db.FileSystemUtils.isCaseSensitive(FileSystemUtils.java:50)
+	at net.java.ao.db.MySQLDatabaseProvider.isCaseSensitive(MySQLDatabaseProvider.java:156)
+	at net.java.ao.schema.helper.DatabaseMetaDataReaderImpl.getTableNames(DatabaseMetaDataReaderImpl.java:58)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:106)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:94)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:85)
+	at net.java.ao.schema.SchemaGenerator.generateImpl(SchemaGenerator.java:120)
+	at net.java.ao.schema.SchemaGenerator.migrate(SchemaGenerator.java:89)
+	at net.java.ao.EntityManager.migrate(EntityManager.java:128)
+	at com.atlassian.activeobjects.internal.EntityManagedActiveObjects.migrate(EntityManagedActiveObjects.java:44)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:74)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:68)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate$1.doInTransaction(HostContextTransactionTemplate.java:25)
+	at com.atlassian.jira.DefaultHostContextAccessor.doInTransaction(DefaultHostContextAccessor.java:34)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.hostcomponents.impl.DefaultComponentRegistrar$ContextClassLoaderSettingInvocationHandler.invoke(DefaultComponentRegistrar.java:129)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.bridge.external.HostComponentFactoryBean$DynamicServiceInvocationHandler.invoke(HostComponentFactoryBean.java:154)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate.execute(HostContextTransactionTemplate.java:21)
+	at sun.reflect.GeneratedMethodAccessor149.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy1183.execute(Unknown Source)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory.create(AbstractActiveObjectsFactory.java:67)
+	at com.atlassian.activeobjects.internal.DelegatingActiveObjectsFactory.create(DelegatingActiveObjectsFactory.java:39)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.createActiveObjects(ActiveObjectsServiceFactory.java:136)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.access$000(ActiveObjectsServiceFactory.java:51)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:65)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:61)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects$MemoizingSupplier.get(DelegatingActiveObjects.java:156)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects.find(DelegatingActiveObjects.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy3500.find(Unknown Source)
+	at com.atlassian.greenhopper.manager.lexorank.balancer.BalancerEntryDao.list(BalancerEntryDao.java:16)
+	at com.atlassian.greenhopper.manager.lexorank.balancer.BalancerEntryManagerImpl.list(BalancerEntryManagerImpl.java:75)
+	at com.atlassian.greenhopper.service.lexorank.balance.LexoRankScheduledBalanceHandler.run(LexoRankScheduledBalanceHandler.java:46)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createTempFile(Unknown Source)
+	at java.io.File.createTempFile(Unknown Source)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:29)
+	... 84 more
+2017-02-06 17:11:05,905 lexorank-executor-thread-0 ERROR      [service.lexorank.balance.LexoRankBalancingService] java.io.IOException: Permission denied
+java.lang.IllegalStateException: java.io.IOException: Permission denied
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:43)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:24)
+	at com.google.common.base.Suppliers$MemoizingSupplier.get(Suppliers.java:109)
+	at net.java.ao.db.FileSystemUtils.isCaseSensitive(FileSystemUtils.java:50)
+	at net.java.ao.db.MySQLDatabaseProvider.isCaseSensitive(MySQLDatabaseProvider.java:156)
+	at net.java.ao.schema.helper.DatabaseMetaDataReaderImpl.getTableNames(DatabaseMetaDataReaderImpl.java:58)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:106)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:94)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:85)
+	at net.java.ao.schema.SchemaGenerator.generateImpl(SchemaGenerator.java:120)
+	at net.java.ao.schema.SchemaGenerator.migrate(SchemaGenerator.java:89)
+	at net.java.ao.EntityManager.migrate(EntityManager.java:128)
+	at com.atlassian.activeobjects.internal.EntityManagedActiveObjects.migrate(EntityManagedActiveObjects.java:44)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:74)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:68)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate$1.doInTransaction(HostContextTransactionTemplate.java:25)
+	at com.atlassian.jira.DefaultHostContextAccessor.doInTransaction(DefaultHostContextAccessor.java:34)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.hostcomponents.impl.DefaultComponentRegistrar$ContextClassLoaderSettingInvocationHandler.invoke(DefaultComponentRegistrar.java:129)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.bridge.external.HostComponentFactoryBean$DynamicServiceInvocationHandler.invoke(HostComponentFactoryBean.java:154)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate.execute(HostContextTransactionTemplate.java:21)
+	at sun.reflect.GeneratedMethodAccessor149.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy1183.execute(Unknown Source)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory.create(AbstractActiveObjectsFactory.java:67)
+	at com.atlassian.activeobjects.internal.DelegatingActiveObjectsFactory.create(DelegatingActiveObjectsFactory.java:39)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.createActiveObjects(ActiveObjectsServiceFactory.java:136)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.access$000(ActiveObjectsServiceFactory.java:51)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:65)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:61)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects$MemoizingSupplier.get(DelegatingActiveObjects.java:156)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects.find(DelegatingActiveObjects.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy3500.find(Unknown Source)
+	at com.atlassian.greenhopper.manager.lexorank.balancer.BalancerEntryDao.list(BalancerEntryDao.java:16)
+	at com.atlassian.greenhopper.manager.lexorank.balancer.BalancerEntryManagerImpl.list(BalancerEntryManagerImpl.java:75)
+	at com.atlassian.greenhopper.service.lexorank.balance.LexoRankScheduledBalanceHandler.run(LexoRankScheduledBalanceHandler.java:46)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createTempFile(Unknown Source)
+	at java.io.File.createTempFile(Unknown Source)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:29)
+	... 84 more
+2017-02-06 17:12:05,879 lexorank-executor-thread-0 ERROR      [service.lexorank.balance.LexoRankBalancingService] java.io.IOException: Permission denied
+java.lang.IllegalStateException: java.io.IOException: Permission denied
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:43)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:24)
+	at com.google.common.base.Suppliers$MemoizingSupplier.get(Suppliers.java:109)
+	at net.java.ao.db.FileSystemUtils.isCaseSensitive(FileSystemUtils.java:50)
+	at net.java.ao.db.MySQLDatabaseProvider.isCaseSensitive(MySQLDatabaseProvider.java:156)
+	at net.java.ao.schema.helper.DatabaseMetaDataReaderImpl.getTableNames(DatabaseMetaDataReaderImpl.java:58)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:106)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:94)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:85)
+	at net.java.ao.schema.SchemaGenerator.generateImpl(SchemaGenerator.java:120)
+	at net.java.ao.schema.SchemaGenerator.migrate(SchemaGenerator.java:89)
+	at net.java.ao.EntityManager.migrate(EntityManager.java:128)
+	at com.atlassian.activeobjects.internal.EntityManagedActiveObjects.migrate(EntityManagedActiveObjects.java:44)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:74)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:68)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate$1.doInTransaction(HostContextTransactionTemplate.java:25)
+	at com.atlassian.jira.DefaultHostContextAccessor.doInTransaction(DefaultHostContextAccessor.java:34)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.hostcomponents.impl.DefaultComponentRegistrar$ContextClassLoaderSettingInvocationHandler.invoke(DefaultComponentRegistrar.java:129)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.bridge.external.HostComponentFactoryBean$DynamicServiceInvocationHandler.invoke(HostComponentFactoryBean.java:154)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate.execute(HostContextTransactionTemplate.java:21)
+	at sun.reflect.GeneratedMethodAccessor149.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy1183.execute(Unknown Source)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory.create(AbstractActiveObjectsFactory.java:67)
+	at com.atlassian.activeobjects.internal.DelegatingActiveObjectsFactory.create(DelegatingActiveObjectsFactory.java:39)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.createActiveObjects(ActiveObjectsServiceFactory.java:136)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.access$000(ActiveObjectsServiceFactory.java:51)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:65)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:61)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects$MemoizingSupplier.get(DelegatingActiveObjects.java:156)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects.find(DelegatingActiveObjects.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy3500.find(Unknown Source)
+	at com.atlassian.greenhopper.manager.lexorank.balancer.BalancerEntryDao.list(BalancerEntryDao.java:16)
+	at com.atlassian.greenhopper.manager.lexorank.balancer.BalancerEntryManagerImpl.list(BalancerEntryManagerImpl.java:75)
+	at com.atlassian.greenhopper.service.lexorank.balance.LexoRankScheduledBalanceHandler.run(LexoRankScheduledBalanceHandler.java:46)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createTempFile(Unknown Source)
+	at java.io.File.createTempFile(Unknown Source)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:29)
+	... 84 more
+2017-02-06 17:13:05,879 lexorank-executor-thread-0 ERROR      [service.lexorank.balance.LexoRankBalancingService] java.io.IOException: Permission denied
+java.lang.IllegalStateException: java.io.IOException: Permission denied
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:43)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:24)
+	at com.google.common.base.Suppliers$MemoizingSupplier.get(Suppliers.java:109)
+	at net.java.ao.db.FileSystemUtils.isCaseSensitive(FileSystemUtils.java:50)
+	at net.java.ao.db.MySQLDatabaseProvider.isCaseSensitive(MySQLDatabaseProvider.java:156)
+	at net.java.ao.schema.helper.DatabaseMetaDataReaderImpl.getTableNames(DatabaseMetaDataReaderImpl.java:58)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:106)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:94)
+	at net.java.ao.schema.ddl.SchemaReader.readSchema(SchemaReader.java:85)
+	at net.java.ao.schema.SchemaGenerator.generateImpl(SchemaGenerator.java:120)
+	at net.java.ao.schema.SchemaGenerator.migrate(SchemaGenerator.java:89)
+	at net.java.ao.EntityManager.migrate(EntityManager.java:128)
+	at com.atlassian.activeobjects.internal.EntityManagedActiveObjects.migrate(EntityManagedActiveObjects.java:44)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:74)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory$1.doInTransaction(AbstractActiveObjectsFactory.java:68)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate$1.doInTransaction(HostContextTransactionTemplate.java:25)
+	at com.atlassian.jira.DefaultHostContextAccessor.doInTransaction(DefaultHostContextAccessor.java:34)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.hostcomponents.impl.DefaultComponentRegistrar$ContextClassLoaderSettingInvocationHandler.invoke(DefaultComponentRegistrar.java:129)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor146.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.atlassian.plugin.osgi.bridge.external.HostComponentFactoryBean$DynamicServiceInvocationHandler.invoke(HostComponentFactoryBean.java:154)
+	at com.sun.proxy.$Proxy153.doInTransaction(Unknown Source)
+	at com.atlassian.sal.core.transaction.HostContextTransactionTemplate.execute(HostContextTransactionTemplate.java:21)
+	at sun.reflect.GeneratedMethodAccessor149.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy1183.execute(Unknown Source)
+	at com.atlassian.activeobjects.internal.AbstractActiveObjectsFactory.create(AbstractActiveObjectsFactory.java:67)
+	at com.atlassian.activeobjects.internal.DelegatingActiveObjectsFactory.create(DelegatingActiveObjectsFactory.java:39)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.createActiveObjects(ActiveObjectsServiceFactory.java:136)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory.access$000(ActiveObjectsServiceFactory.java:51)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:65)
+	at com.atlassian.activeobjects.osgi.ActiveObjectsServiceFactory$1$1.get(ActiveObjectsServiceFactory.java:61)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects$MemoizingSupplier.get(DelegatingActiveObjects.java:156)
+	at com.atlassian.activeobjects.osgi.DelegatingActiveObjects.find(DelegatingActiveObjects.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:307)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58)
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:56)
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:39)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131)
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy3500.find(Unknown Source)
+	at com.atlassian.greenhopper.manager.lexorank.balancer.BalancerEntryDao.list(BalancerEntryDao.java:16)
+	at com.atlassian.greenhopper.manager.lexorank.balancer.BalancerEntryManagerImpl.list(BalancerEntryManagerImpl.java:75)
+	at com.atlassian.greenhopper.service.lexorank.balance.LexoRankScheduledBalanceHandler.run(LexoRankScheduledBalanceHandler.java:46)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.IOException: Permission denied
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createTempFile(Unknown Source)
+	at java.io.File.createTempFile(Unknown Source)
+	at net.java.ao.db.FileSystemUtils$1.get(FileSystemUtils.java:29)
+	... 84 more
+2017-02-06 17:13:38,069 Timer-2 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin stopping...
+*********************************************************************************
+
+2017-02-06 17:15:41,770 ThreadPoolAsyncTaskExecutor::Thread 13 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin starting...
+*********************************************************************************
+
+2017-02-06 17:15:41,828 ThreadPoolAsyncTaskExecutor::Thread 13 INFO      [greenhopper.service.logging.LogSupport] 
+
+JIRA Agile Run History
+
+	*JIRA Agile v6.7.11 (71a5197f0180dc1d) started at 19 Nov 2015 07:30
+
+
+2017-02-06 17:15:41,983 ThreadPoolAsyncTaskExecutor::Thread 13 INFO      [greenhopper.service.logging.LogSupport] 
+
+The following JIRA Agile upgrade tasks have been run on this system
+
+	JAG UpgradeTask  12 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  12 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1 ms
+	JAG UpgradeTask  13 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  13 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1411 ms
+	JAG UpgradeTask  14 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  14 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  15 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  15 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1305 ms
+	JAG UpgradeTask  16 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  16 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  17 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  17 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 13 ms
+	JAG UpgradeTask  18 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  18 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  19 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  19 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 28 ms
+	JAG UpgradeTask  20 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  20 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  21 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  21 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 2 ms
+	JAG UpgradeTask  22 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  22 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 169 ms
+	JAG UpgradeTask  23 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  23 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  24 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  24 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  25 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  25 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 22 ms
+	JAG UpgradeTask  26 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  26 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 532 ms
+	JAG UpgradeTask  27 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  27 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  29 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  29 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 19 ms
+	JAG UpgradeTask  30 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  30 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 21 ms
+	JAG UpgradeTask  31 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  31 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 3 ms
+	JAG UpgradeTask  32 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  32 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 18 ms
+	JAG UpgradeTask  33 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  33 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  34 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  34 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 44 ms
+	JAG UpgradeTask  35 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  35 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 8 ms
+	JAG UpgradeTask  36 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  36 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 1 ms
+	JAG UpgradeTask  37 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  37 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 214 ms
+	JAG UpgradeTask  38 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  38 ended   at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  39 started at 19 Nov 2015 07:31 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  39 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 506 ms
+	JAG UpgradeTask  40 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  40 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 168 ms
+	JAG UpgradeTask  41 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  41 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 56 ms
+	JAG UpgradeTask  42 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  42 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+	JAG UpgradeTask  43 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  43 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 10 ms
+	JAG UpgradeTask  44 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  44 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 253 ms
+	JAG UpgradeTask  45 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  45 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 57 ms
+	JAG UpgradeTask  46 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  46 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 14 ms
+	JAG UpgradeTask  47 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  47 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 7 ms
+	JAG UpgradeTask  48 started at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d)
+	JAG UpgradeTask  48 ended   at 19 Nov 2015 07:32 within JAG v6.7.11 (71a5197f0180dc1d) and took 0 ms
+
+2017-02-06 17:15:46,953 localhost-startStop-1 INFO      [greenhopper.service.logging.LogSupport] 
+
+*********************************************************************************
+Atlassian GreenHopper v6.7.11 #71a5197f0180dc1d built 2015-08-11T14:56:33.404+08:00 - plugin started.  Get Agile!
+*********************************************************************************
+
+2017-02-06 17:15:51,740 localhost-startStop-1 INFO      [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] Checking if jira-importers-plugin is present and at version 4.4 or higher
+2017-02-06 17:15:51,742 localhost-startStop-1 INFO      [greenhopper.plugin.sampledata.JiraImportersPluginInstallerImpl] jira-importers-plugin already at 6.2.3.
+2017-02-06 17:15:56,509 localhost-startStop-1 INFO      [greenhopper.service.logging.LogSupport] 
+
+Managed Issue Types
+	Epic                            id=10000                   name=Epic                            
+	Story                           id=10001                   name=Story                           
+
+
+Managed Custom Fields
+	Epic Colour                     id=customfield_10008       name=Epic Color                      type=com.pyxis.greenhopper.jira:gh-epic-color
+	Epic Link                       id=customfield_10006       name=Epic Link                       type=com.pyxis.greenhopper.jira:gh-epic-link
+	Epic Name                       id=customfield_10005       name=Epic Name                       type=com.pyxis.greenhopper.jira:gh-epic-label
+	Epic Status                     id=customfield_10007       name=Epic Status                     type=com.pyxis.greenhopper.jira:gh-epic-status
+	Default Global Rank             id=customfield_10009       name=Rank                            type=com.pyxis.greenhopper.jira:gh-lexo-rank
+	Sprint                          id=customfield_10004       name=Sprint                          type=com.pyxis.greenhopper.jira:gh-sprint
+	Story Points                    id=customfield_10002       name=Story Points                    type=com.atlassian.jira.plugin.system.customfieldtypes:float
+
+
+Managed Issue Link Types
+	Epic Link Issue Link Type       id=10200                   name=Epic-Story Link                 
+
