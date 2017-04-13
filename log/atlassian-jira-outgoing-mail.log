@@ -39529,3 +39529,757 @@ Caused by: java.net.SocketTimeoutException: Read timed out
 	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
 	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
 	... 22 more
+2017-04-01 11:15:58,232 ERROR [JIRA] Sending mailitem To='luohongyun@genomics.cn' Subject='' From='null' FromName='华大司法 (JIRA)' Cc='null' Bcc='null' ReplyTo='bgi-pma@genomics.cn' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='null' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='luohongyun@genomics.cn' Subject='您被邀请使用JIRA' From='null' FromName='华大司法 (JIRA)' Cc='null' Bcc='null' ReplyTo='bgi-pma@genomics.cn' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@7a18f8a3' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.jira.mail.builder.RenderingMailQueueItem.send(RenderingMailQueueItem.java:40)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 19 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 23 more
+2017-04-01 11:16:58,203 ERROR [JIRA] Sending mailitem To='luohongyun@genomics.cn' Subject='您被邀请使用JIRA' From='null' FromName='华大司法 (JIRA)' Cc='null' Bcc='null' ReplyTo='bgi-pma@genomics.cn' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@7a18f8a3' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='luohongyun@genomics.cn' Subject='您被邀请使用JIRA' From='null' FromName='华大司法 (JIRA)' Cc='null' Bcc='null' ReplyTo='bgi-pma@genomics.cn' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@6fd13d4e' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.jira.mail.builder.RenderingMailQueueItem.send(RenderingMailQueueItem.java:40)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 19 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 23 more
+2017-04-01 15:51:58,439 ERROR [JIRA] Sending mailitem To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@57b6d63' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@57b6d63' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 15:52:58,161 ERROR [JIRA] Sending mailitem To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@57b6d63' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@57b6d63' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 15:53:58,155 ERROR [JIRA] Sending mailitem To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@57b6d63' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@57b6d63' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 15:54:10,160 ERROR [JIRA] Sending mailitem To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@5dd2bb57' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@5dd2bb57' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 15:54:25,736 ERROR [JIRA] Sending mailitem To='zhangzhe@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@7d84d660' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='zhangzhe@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@7d84d660' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 16:02:59,138 ERROR [JIRA] Sending mailitem To='zhangzhe@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='王轶男 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@7a031d78' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='zhangzhe@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='王轶男 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@7a031d78' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 16:03:09,461 ERROR [JIRA] Sending mailitem To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='王轶男 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@15f8a31b' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='王轶男 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@15f8a31b' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 16:03:58,158 ERROR [JIRA] Sending mailitem To='zhangzhe@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='王轶男 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@7a031d78' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='zhangzhe@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='王轶男 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@7a031d78' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 16:04:08,460 ERROR [JIRA] Sending mailitem To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='王轶男 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@15f8a31b' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='renlu@genomics.cn' Subject='(ZDKY-84) 二代法医机V1' From='null' FromName='王轶男 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10717.1490260870000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@15f8a31b' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 16:37:04,989 ERROR [JIRA] Sending mailitem To='zhangzhe@genomics.cn' Subject='(YKY-25) 产前无创亲子鉴定' From='null' FromName='梁雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@279e17cb' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='zhangzhe@genomics.cn' Subject='(YKY-25) 产前无创亲子鉴定' From='null' FromName='梁雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10450.1476940758000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@279e17cb' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-01 16:37:16,253 ERROR [JIRA] Sending mailitem To='lishuaicheng@genomics.cn' Subject='(YKY-25) 产前无创亲子鉴定' From='null' FromName='梁雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@400e9c1e' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='lishuaicheng@genomics.cn' Subject='(YKY-25) 产前无创亲子鉴定' From='null' FromName='梁雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10450.1476940758000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@400e9c1e' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-12 15:40:58,376 ERROR [JIRA] Sending mailitem To='yinlihui@genomics.cn' Subject='(HXKY-102) HumDNA Typing试剂盒的优化升级' From='null' FromName='朱德芹 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@6225f125' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='yinlihui@genomics.cn' Subject='(HXKY-102) HumDNA Typing试剂盒的优化升级' From='null' FromName='朱德芹 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10716.1490177606000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@6225f125' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-12 17:23:58,299 ERROR [JIRA] Sending mailitem To='fudongke@genomics.cn' Subject='(HXKY-102) HumDNA Typing试剂盒的优化升级' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@37a1007f' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='fudongke@genomics.cn' Subject='(HXKY-102) HumDNA Typing试剂盒的优化升级' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10716.1490177606000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@37a1007f' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
+2017-04-12 17:24:08,580 ERROR [JIRA] Sending mailitem To='fudongke@genomics.cn' Subject='(HXKY-102) HumDNA Typing试剂盒的优化升级' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='null' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@516bf546' MessageId='null' ServiceRunner    Mail Queue Service Error occurred in sending e-mail: To='fudongke@genomics.cn' Subject='(HXKY-102) HumDNA Typing试剂盒的优化升级' From='null' FromName='郑飞雪 (JIRA)' Cc='null' Bcc='null' ReplyTo='null' InReplyTo='<JIRA.10716.1490177606000@Atlassian.JIRA>' MimeType='text/html' Encoding='UTF-8' Multipart='javax.mail.internet.MimeMultipart@516bf546' MessageId='null'
+com.atlassian.mail.MailException: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:201)
+	at com.atlassian.mail.queue.SingleMailQueueItem.send(SingleMailQueueItem.java:44)
+	at com.atlassian.mail.queue.MailQueueImpl.sendBuffer(MailQueueImpl.java:66)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:57)
+	at com.atlassian.jira.mail.JiraMailQueue$1.apply(JiraMailQueue.java:53)
+	at com.atlassian.jira.util.velocity.DefaultVelocityRequestContextFactory.runWithStaticBaseUrl(DefaultVelocityRequestContextFactory.java:127)
+	at com.atlassian.jira.util.DefaultBaseUrl.runWithStaticBaseUrl(DefaultBaseUrl.java:41)
+	at com.atlassian.jira.mail.JiraMailQueue.sendBuffer(JiraMailQueue.java:52)
+	at com.atlassian.jira.service.services.mail.MailQueueService.run(MailQueueService.java:28)
+	at com.atlassian.jira.service.JiraServiceContainerImpl.run(JiraServiceContainerImpl.java:66)
+	at com.atlassian.jira.service.ServiceRunner.runService(ServiceRunner.java:75)
+	at com.atlassian.jira.service.ServiceRunner.runServiceId(ServiceRunner.java:53)
+	at com.atlassian.jira.service.ServiceRunner.runJob(ServiceRunner.java:36)
+	at com.atlassian.scheduler.core.JobLauncher.runJob(JobLauncher.java:135)
+	at com.atlassian.scheduler.core.JobLauncher.launchAndBuildResponse(JobLauncher.java:101)
+	at com.atlassian.scheduler.core.JobLauncher.launch(JobLauncher.java:80)
+	at com.atlassian.scheduler.quartz1.Quartz1Job.execute(Quartz1Job.java:32)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:223)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:549)
+Caused by: javax.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2210)
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2093)
+	at com.sun.mail.smtp.SMTPTransport.finishData(SMTPTransport.java:1900)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1122)
+	at com.atlassian.mail.server.impl.SMTPMailServerImpl.sendWithMessageId(SMTPMailServerImpl.java:174)
+	... 18 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at com.sun.mail.util.TraceInputStream.read(TraceInputStream.java:110)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at com.sun.mail.util.LineInputStream.readLine(LineInputStream.java:89)
+	at com.sun.mail.smtp.SMTPTransport.readServerResponse(SMTPTransport.java:2188)
+	... 22 more
